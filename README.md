@@ -1,5 +1,7 @@
 # RegExp Escaping Proposal
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 This ECMAScript proposal seeks to investigate the problem area of escaping a string for use inside a Regular Expression.
 
 <!--
